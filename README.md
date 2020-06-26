@@ -6,4 +6,4 @@ Base Image: centos:7
 
 Java 1.8
 
-Pull the image from docker hub 
+Pull the image from docker hub <b>docker push jaganselva/jsdev-java</b>
